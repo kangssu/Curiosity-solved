@@ -31,6 +31,7 @@ public class SchoolUse {
     }
 }
 ```
+<br>
 
 #### 📌 의존관계 주입 예시
 * 외부 EducationDepartment 클래스에서 생성한다면 수정사항이 생겨도 외부 클래스에서만 수정해주면 되기 때문에 기존의 School, SchoolUse 클래스에서는 변경사항이 없다.
