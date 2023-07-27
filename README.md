@@ -1,4 +1,4 @@
-# TIL(Today I Learned) 🔥
+# TIL(Today I Learned) 🌞
 * **기본지식**
   * [AST 개념 파악하기](https://github.com/kangssu/TIL/blob/main/%EA%B8%B0%EB%B3%B8%EC%A7%80%EC%8B%9D/AST.md)
   * [DI 개념 파악하기](https://github.com/kangssu/TIL/blob/main/%EA%B8%B0%EB%B3%B8%EC%A7%80%EC%8B%9D/DI.md)
