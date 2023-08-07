@@ -37,7 +37,9 @@ export class CompanyCreateDto {
 ```
 <br>
 
-헌데, 제로초님의 강의에서는 Dto 클래스에 PickType을 사용하여 Entity를 상속했다. PickType은 상속받는 Entity에서 중복되는 컬럼들을 넣으면 Entity에 작성되어 있는 컬럼을 Dto에 동일하게 작성하지 않아도 되었다. 또한, Entity에 타입 검증을 하는 데코레이터도 넣었다.<br>
+헌데, 제로초님의 강의에서는 Dto 클래스에 PickType을 사용하여 Entity를 상속했다. <br>
+PickType은 상속받는 Entity에서 중복되는 컬럼들을 넣으면 Entity에 작성되어 있는 컬럼을 Dto에 동일하게 작성하지 않아도 되었다.<br>
+또한, Entity에 타입 검증을 하는 데코레이터도 넣었다.<br>
 [:point_right: **PickType 공식문서 바로가기**](https://docs.nestjs.com/openapi/mapped-types)
 * **새롭게 알게된 Entity 방식**
 ```
