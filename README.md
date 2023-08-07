@@ -6,7 +6,7 @@
 * **타입스크립트**
   * [Interface 기본 개념 파악하기](https://github.com/kangssu/TIL/blob/main/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/Interface.md)
 * **NestJS**
-  * [PickType 사용하기]()
+  * [PickType 사용하기](https://github.com/kangssu/TIL/blob/main/NestJS/PickType)
 <br>
 
 * **꼬리에 꼬리를 무는 궁금증.. 😏**
