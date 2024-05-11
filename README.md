@@ -1,4 +1,4 @@
-# Curiosity solved 🌞
+# 궁금증 해결! 🌞
 * **기본지식**
   * [AST 개념 파악하기](https://github.com/kangssu/TIL/blob/main/%EA%B8%B0%EB%B3%B8%EC%A7%80%EC%8B%9D/AST.md)
   * [DI 개념 파악하기](https://github.com/kangssu/TIL/blob/main/%EA%B8%B0%EB%B3%B8%EC%A7%80%EC%8B%9D/DI.md)
@@ -11,3 +11,4 @@
 
 * **꼬리에 꼬리를 무는 궁금증.. 😏**
   * [타입스크립트에서 인터페이스가 런타임에 없다고?](https://dego.tistory.com/15)
+  * [JWT...왜 써야 하는데?](https://dego.tistory.com/31)
